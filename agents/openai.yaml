@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实卡片制作"
+  short_description: "用真实照片与 Logo 复刻可印刷卡片"
+  default_prompt: "使用 $real-card-maker，根据效果图、合照、Logo 和文案制作可印刷感恩卡及 A5 双面签名卡。"
